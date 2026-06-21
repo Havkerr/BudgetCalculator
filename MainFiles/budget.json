@@ -1,0 +1,26 @@
+{
+  "OutsideFood": {
+    "totalBudget": 3000,
+    "spent": 2549
+  },
+  "Blinkit": {
+    "totalBudget": 2000,
+    "spent": 0
+  },
+  "Bike": {
+    "totalBudget": 1000,
+    "spent": 510
+  },
+  "Travel": {
+    "totalBudget": 1000,
+    "spent": 810
+  },
+  "BasicNeed": {
+    "totalBudget": 2000,
+    "spent": 1589
+  },
+  "Baby": {
+    "totalBudget": 6000,
+    "spent": 3147
+  }
+}
