@@ -3,7 +3,7 @@ Overview**
 A Java-based console application to track daily expenses and generate simple spending reports.
 
 **Features**
-- Add expenses with category and amount directly thorud JSON
+- Add expenses with category and amount directly through JSON 
 - View all expenses
 - Calculate total spending
 
