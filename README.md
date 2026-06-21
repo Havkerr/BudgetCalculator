@@ -1,6 +1,6 @@
 **Personal Expense Tracker
 Overview**
-A Java-based console application to track daily expenses and generate simple spending reports.
+A Java-based console application to track daily expenses.
 
 **Features**
 - Add expenses with category and amount directly through JSON 
