@@ -3,11 +3,11 @@
     "totalBudget": 3000,
     "spent": 2549
   },
-  "Blinkit": {
+  "Groceries": {
     "totalBudget": 2000,
     "spent": 0
   },
-  "Bike": {
+  "BikeMaintenance": {
     "totalBudget": 1000,
     "spent": 510
   },
@@ -19,7 +19,7 @@
     "totalBudget": 2000,
     "spent": 1589
   },
-  "Baby": {
+  "Miscellaneous": {
     "totalBudget": 6000,
     "spent": 3147
   }
