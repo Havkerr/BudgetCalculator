@@ -19,11 +19,12 @@ A Java-based console application to track daily expenses and generate simple spe
 - Run Main.java
 
 Output Example
- Food: 2500
- Travel: 1200
- Shopping: 3000
- ----------------
- Total: 6700
+
+- Food: 2500
+- Travel: 1200
+- Shopping: 3000
+----------------
+- Total: 6700
 
 **Author**
 Shubham Anand
